@@ -1,0 +1,8 @@
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+lxml==4.8.0
+nbinteract==0.2.6
+PyYAML==6.0
