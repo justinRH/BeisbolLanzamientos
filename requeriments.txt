@@ -6,3 +6,4 @@ jupyter-nbextensions-configurator==0.4.1
 lxml==4.8.0
 nbinteract==0.2.6
 PyYAML==6.0
+pandas
