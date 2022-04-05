@@ -16,7 +16,7 @@ fastjsonschema==2.15.3
 fonttools==4.31.2
 importlib-resources==5.6.0
 ipykernel
-ipython==8.2.0
+ipython
 ipython-genutils==0.2.0
 ipywidgets==7.7.0
 jedi==0.18.1
