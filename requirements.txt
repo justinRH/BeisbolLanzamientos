@@ -75,7 +75,7 @@ pytz
 PyYAML
 pyzmq
 qtconsole
-QtPy=
+QtPy
 requests
 scipy
 seaborn
