@@ -8,9 +8,10 @@ A propósito del inicio de la temporada 2022 de la MLB, un interesante ejercicio
 
 En este repositorio se analizan los tipos de picheos que usan estos lanzadores y los resultados que con ellos logran, que van desde strike hasta jonrones; así como también, las formas de los batazos que los bateadores logran realizar por ejemplo: rolings, lineas, flyes, etc. 
 
-Se destaca el uso en este notebook, de librerías de python tan útiles como pandas, matplotlib, seaborn y de especial apoyo pybaseball desarrollado por [Moshe Eschorr](https://github.com/schorrm) con el que se realiza el scrap de la data desde [baseballsavant](https://baseballsavant.mlb.com/statcast_search). De igual forma la librería ipywidget permitió desarrollar algunas interactividades. 
+Se destaca el uso en este notebook, de librerías de python tan útiles como pandas, matplotlib, seaborn y de especial apoyo, pybaseball desarrollado por [Moshe Eschorr](https://github.com/schorrm), con el que se realiza el scrap de la data desde [baseballsavant](https://baseballsavant.mlb.com/statcast_search). De igual forma la librería ipywidget permitió desarrollar algunas interactividades. 
 
 En el enlace de abajo podrás exprimentar con este notebook desde myBinder.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/justinRH/BeisbolLanzamientos/brach?labpath=PitchAnalysis.ipynb)
 
-*En la memoria de mi padre Agustín Romero, quién esperaba el OpenDay con mucha espectativa, le llamaban: "EL Big Leaguer"*
+*En la memoria de mi padre Agustín Romero, quién esperaba el OpenDay con mucha espectativa, le llamaban: "El Big Leaguer"*
