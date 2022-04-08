@@ -1,5 +1,5 @@
 # <center> Análisis de la eficiencia de los Lanzamientos de los Cy-Young. Temporadas 2020 y 2021 </center>
-Por: Dr. Reimer Romero Hernández  
+### Por: Dr. Reimer Romero Hernández  
 | ![Robie.jpg](Robie.jpg) | 
 |:--:| 
 | *Photo by Cole Burston/Getty Images* |
